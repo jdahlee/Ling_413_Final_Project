@@ -221,3 +221,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*Country_Corpus
+*Country_Word_Frequency_Data
